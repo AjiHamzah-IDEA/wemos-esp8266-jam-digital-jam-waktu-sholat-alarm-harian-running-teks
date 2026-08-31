@@ -24,3 +24,9 @@ buzzer - tipe active buzzer bukan passive
 adaptor 5v dari cas hp atau pakai psu 5v
 kabel jumper secukupnya
 untuk cara perakitan kalian tinggal lihat gambar skema nya
+RTC PIN JUMPER SDA KE D2 DAN SCL KE D1 - GND GND - VCC KE 5V
+kalian donwload file mac nya dan flash ke esp kalian
+setelah selesai flash - nama wifi esp kalian akan muncul mac address nya
+kirim mac address tersebut ke wa saya 087852618888 dan akan saya buatkan file bin jam nya lalu kalian tinggal flash file bin tersebut menggunakan esp8266 loader jika pakai android.
+HARGA UNTUK 1 FILE BIN 50.000 saja
+1 file bin hanya bisa di gunakan pada 1 esp saja.
